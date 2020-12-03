@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k/WKhcazfXRRVP8RTSWcGMq1GkRSbAJI4J0aWw6e2zBei3pjCJUfH5QKQiDyRwB8pM7TZZdk/Ool26dafd6Otw==",
+  "dgSpecHash": "60IJKNFyuQoNz7vx+H5lUmRMOdXlFV4AG+e7bdDxC4WDHuZEHj02N9Ecavud3cJxWAbq6fzWXUTRSKmgnbcKxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Koble\\source\\repos\\ConsoleApp1\\ConsoleApp1\\WordsCount.csproj",
+  "projectFilePath": "D:\\git\\WordsCount\\ConsoleApp1\\WordsCount.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

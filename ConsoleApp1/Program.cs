@@ -37,7 +37,6 @@ namespace WordsCount
 
             List<KeyValuePair<string, int>> myList = new List<KeyValuePair<string, int>>();
 
-
             foreach (var item in wc)
             {
                 myList.Add(new KeyValuePair<string, int>(item.Key, item.Value));

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Koble\\source\\repos\\ConsoleApp1\\ConsoleApp1\\WordsCount.csproj": {}
+    "D:\\git\\WordsCount\\ConsoleApp1\\WordsCount.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Koble\\source\\repos\\ConsoleApp1\\ConsoleApp1\\WordsCount.csproj": {
+    "D:\\git\\WordsCount\\ConsoleApp1\\WordsCount.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Koble\\source\\repos\\ConsoleApp1\\ConsoleApp1\\WordsCount.csproj",
+        "projectUniqueName": "D:\\git\\WordsCount\\ConsoleApp1\\WordsCount.csproj",
         "projectName": "WordsCount",
-        "projectPath": "C:\\Users\\Koble\\source\\repos\\ConsoleApp1\\ConsoleApp1\\WordsCount.csproj",
+        "projectPath": "D:\\git\\WordsCount\\ConsoleApp1\\WordsCount.csproj",
         "packagesPath": "C:\\Users\\Koble\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Koble\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\git\\WordsCount\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
