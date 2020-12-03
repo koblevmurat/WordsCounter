@@ -1,0 +1,13 @@
+C:\Users\Koble\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\WordsCount.exe
+C:\Users\Koble\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\WordsCount.deps.json
+C:\Users\Koble\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\WordsCount.runtimeconfig.json
+C:\Users\Koble\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\WordsCount.runtimeconfig.dev.json
+C:\Users\Koble\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\WordsCount.dll
+C:\Users\Koble\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\WordsCount.pdb
+C:\Users\Koble\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\WordsCount.csprojAssemblyReference.cache
+C:\Users\Koble\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\WordsCount.AssemblyInfoInputs.cache
+C:\Users\Koble\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\WordsCount.AssemblyInfo.cs
+C:\Users\Koble\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\WordsCount.csproj.CoreCompileInputs.cache
+C:\Users\Koble\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\WordsCount.dll
+C:\Users\Koble\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\WordsCount.pdb
+C:\Users\Koble\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\WordsCount.genruntimeconfig.cache

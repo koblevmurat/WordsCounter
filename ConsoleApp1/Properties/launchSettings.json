@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WordsCount": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Koble\\source\\repos\\ConsoleApp1\\ConsoleApp1\\bin\\Debug\\netcoreapp3.1\\subs.txt"
+    }
+  }
+}
